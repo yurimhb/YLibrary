@@ -49,9 +49,9 @@ Os parâmetros recebidos nos métodos serão sempre Objects, pois o YLibrary ir�
 Abaixo temos exemplo da utilização dos métodos da YLibrary,
 
 	- Void Insert(Object o)
-YLibrary conn = new YLibrary();
-ETeste entidade = new ETeste(1,"Teste");
-conn.Insert(entidade);
+		- YLibrary conn = new YLibrary();
+		- ETeste entidade = new ETeste(1,"Teste");
+		- conn.Insert(entidade);
 
 	- Void Update(Object o)
 		- YLibrary conn = new YLibrary();
