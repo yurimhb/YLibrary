@@ -54,24 +54,24 @@ ETeste entidade = new ETeste(1,"Teste");
 conn.Insert(entidade);
 
 	- Void Update(Object o)
-			- YLibrary conn = new YLibrary();
-			- ETeste entidade = new ETeste(1,"Teste");
-			- conn.Update(entidade);
+		- YLibrary conn = new YLibrary();
+		- ETeste entidade = new ETeste(1,"Teste");
+		- conn.Update(entidade);
 
 	- Void Delete(Object o)
-			- YLibrary conn = new YLibrary();
-			- ETeste entidade = new ETeste(1,"Teste");
-			- conn.Delete(entidade);
+		- YLibrary conn = new YLibrary();
+		- ETeste entidade = new ETeste(1,"Teste");
+		- conn.Delete(entidade);
 
 	- Void Select(Object o)
-			- YLibrary conn = new YLibrary();
-			- ETeste entidade = new ETeste(1,"Teste");
-			- List<ETeste> lst = conn.Select(entidade).Cast<ETeste>().ToList();
+		- YLibrary conn = new YLibrary();
+		- ETeste entidade = new ETeste(1,"Teste");
+		- List<ETeste> lst = conn.Select(entidade).Cast<ETeste>().ToList();
 
 	- Void Select(String sql)
-			- YLibrary conn = new YLibrary();
-			- Sql = “Select isn_teste, dsc_teste from Tb_teste”
-			- List<Object[]> lst = lst conn.Select(sql) .Cast<Object[]>().ToList();
+		- YLibrary conn = new YLibrary();
+		- Sql = “Select isn_teste, dsc_teste from Tb_teste”
+		- List<Object[]> lst = lst conn.Select(sql) .Cast<Object[]>().ToList();
 
 
 
