@@ -1,0 +1,9 @@
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\YLibrary_SqlServer.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\YLibrary_SqlServer.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\YLibrary.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\Npgsql.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\Mono.Security.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\bin\Debug\YLibrary.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\obj\Debug\YLibrary_SqlServer.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_SqlServer\obj\Debug\YLibrary_SqlServer.pdb

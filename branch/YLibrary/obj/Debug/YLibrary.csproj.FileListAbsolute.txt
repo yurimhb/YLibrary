@@ -1,0 +1,29 @@
+c:\documents and settings\yuri.barreto\meus documentos\visual studio 2010\Projects\YLibrary\YLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\yuri.barreto\meus documentos\visual studio 2010\Projects\YLibrary\YLibrary\bin\Debug\YLibrary.dll
+c:\documents and settings\yuri.barreto\meus documentos\visual studio 2010\Projects\YLibrary\YLibrary\bin\Debug\YLibrary.pdb
+c:\documents and settings\yuri.barreto\meus documentos\visual studio 2010\Projects\YLibrary\YLibrary\obj\Debug\YLibrary.dll
+c:\documents and settings\yuri.barreto\meus documentos\visual studio 2010\Projects\YLibrary\YLibrary\obj\Debug\YLibrary.pdb
+B:\Projetos\Web\ylibrary\branch\YLibrary\bin\Debug\YLibrary.dll
+B:\Projetos\Web\ylibrary\branch\YLibrary\bin\Debug\YLibrary.pdb
+B:\Projetos\Web\ylibrary\branch\YLibrary\obj\Debug\ResolveAssemblyReference.cache
+B:\Projetos\Web\ylibrary\branch\YLibrary\obj\Debug\YLibrary.dll
+B:\Projetos\Web\ylibrary\branch\YLibrary\obj\Debug\YLibrary.pdb
+D:\YLibrary\branch\YLibrary\bin\Debug\YLibrary.dll
+D:\YLibrary\branch\YLibrary\bin\Debug\YLibrary.pdb
+D:\YLibrary\branch\YLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\YLibrary\branch\YLibrary\obj\Debug\YLibrary.dll
+D:\YLibrary\branch\YLibrary\obj\Debug\YLibrary.pdb
+E:\Projetos\Web\ylibrary\branch\YLibrary\bin\Debug\YLibrary.dll
+E:\Projetos\Web\ylibrary\branch\YLibrary\bin\Debug\YLibrary.pdb
+E:\Projetos\Web\ylibrary\branch\YLibrary\obj\Debug\YLibrary.dll
+E:\Projetos\Web\ylibrary\branch\YLibrary\obj\Debug\YLibrary.pdb
+D:\Integrasoft\Ylibrary\branch\YLibrary\bin\Debug\YLibrary.dll
+D:\Integrasoft\Ylibrary\branch\YLibrary\bin\Debug\YLibrary.pdb
+D:\Integrasoft\Ylibrary\branch\YLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Integrasoft\Ylibrary\branch\YLibrary\obj\Debug\YLibrary.dll
+D:\Integrasoft\Ylibrary\branch\YLibrary\obj\Debug\YLibrary.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Integrasoft\YLibrary\branch\YLibrary\bin\Debug\YLibrary.dll
+C:\Integrasoft\YLibrary\branch\YLibrary\bin\Debug\YLibrary.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary\obj\Debug\YLibrary.dll
+C:\Integrasoft\YLibrary\branch\YLibrary\obj\Debug\YLibrary.pdb

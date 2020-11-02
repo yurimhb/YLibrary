@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YLibrary", "YLibrary\YLibrary.csproj", "{D3BB52BB-DF69-45C3-9A35-FA928B531F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YLibrary_Postgre", "YLibrary_Postgre\YLibrary_Postgre.csproj", "{58F17168-2769-44C5-8886-115C610AD127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YLibrary_SqlServer", "YLibrary_SqlServer\YLibrary_SqlServer.csproj", "{5C761B01-C41E-4976-8683-533C1EF0214C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BB52BB-DF69-45C3-9A35-FA928B531F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BB52BB-DF69-45C3-9A35-FA928B531F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BB52BB-DF69-45C3-9A35-FA928B531F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BB52BB-DF69-45C3-9A35-FA928B531F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F17168-2769-44C5-8886-115C610AD127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F17168-2769-44C5-8886-115C610AD127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F17168-2769-44C5-8886-115C610AD127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F17168-2769-44C5-8886-115C610AD127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C761B01-C41E-4976-8683-533C1EF0214C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C761B01-C41E-4976-8683-533C1EF0214C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C761B01-C41E-4976-8683-533C1EF0214C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C761B01-C41E-4976-8683-533C1EF0214C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

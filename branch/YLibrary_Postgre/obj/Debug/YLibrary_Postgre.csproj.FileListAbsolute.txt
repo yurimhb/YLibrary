@@ -1,0 +1,9 @@
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\obj\Debug\ResolveAssemblyReference.cache
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\YLibrary_Postgre.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\YLibrary_Postgre.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\Mono.Security.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\Npgsql.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\YLibrary.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\bin\Debug\YLibrary.pdb
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\obj\Debug\YLibrary_Postgre.dll
+C:\Integrasoft\YLibrary\branch\YLibrary_Postgre\obj\Debug\YLibrary_Postgre.pdb
