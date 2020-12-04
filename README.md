@@ -3,7 +3,7 @@
 ## Introdução.
 O YLibrary é um entity framework de persistência, utilizando-se Entidades do projeto para persistir em tabelas do banco de dados gerenciadas pelo próprio framework.
 
-Para um entendimento mais completo da estrutura, funcionamento e exemplos praticos, pode ser consultado a documentação completa no diretorio do projeto Documentos/[Documentação completa da YLibrary.pdf](https://github.com/yurimhb/YLibrary/blob/main/Documentos/Documenta%C3%A7%C3%A3o%20completa%20da%20YLibrary.pdf)
+Para um entendimento mais completo da estrutura, funcionamento e exemplos práticos, pode ser consultado a documentação completa no diretorio do projeto Documentos/[Documentação completa da YLibrary.pdf](https://github.com/yurimhb/YLibrary/blob/main/Documentos/Documenta%C3%A7%C3%A3o%20completa%20da%20YLibrary.pdf)
 
 ## Iniciando
 
